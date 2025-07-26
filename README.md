@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ashish Rai</h1>
-<h3 align="center">https://ashishkurai.github.io/gh-profile-readme-generator/</h3>
+
 <img align ="right" alt= "Coding" width="400" src ="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkurai&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkurai" /> </p>
